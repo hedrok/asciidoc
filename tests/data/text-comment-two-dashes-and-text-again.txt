@@ -1,0 +1,6 @@
+// Test of bug when line that starts with two dashes after comment line vanishes
+:lang: en
+
+Line 1
+// comment
+-- Line 2
